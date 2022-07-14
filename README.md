@@ -42,10 +42,6 @@ The following items should be procured prior to the electrician arriving to inst
 | Changeover switch | 40A DIN rail change over switch |   |   |   |
 | Inverter | 
 The following models have been proven in use
-
-KODAK Solar Off-Grid Inverter VMIII 5kW 48V
-
-
  |   |   |   |
 | Battery |   |   |   |   |
 | Fuse |   |   |   |   |
