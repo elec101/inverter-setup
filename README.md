@@ -40,9 +40,7 @@ The following items should be procured prior to the electrician arriving to inst
 | --- | --- | --- | --- | --- |
 | Mini DB | 8 way DIN rail populated surface mount DB |   |   |   |
 | Changeover switch | 40A DIN rail change over switch |   |   |   |
-| Inverter | 
-The following models have been proven in use
- |   |   |   |
+| Inverter |  |   |   |   |
 | Battery |   |   |   |   |
 | Fuse |   |   |   |   |
 | Fuse holder |   |   |   |   |
