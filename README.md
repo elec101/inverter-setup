@@ -30,9 +30,21 @@ This solution focusses on solving a particular need of load shedding i.e. up to 
 | Reduction in electricity bill | Power saving interventions e.g., Gas geyser/ Solar power to reduce electricity bills | No |   |
 | Shift to green energy | Migration away from fossil fuel based energy e.g., Solar Power | No |   |
 
-The load shedding solution described in this document is designed to automatically take over powering the home when there is no Electricity Feed i.e. there should be no disruption in power during load shedding and no human intervention is needed. If you are on a conference call when load shedding starts, you will not notice your modem switch off as it will receive continous power. 
+The load shedding solution described in this document is designed to automatically take over powering the home when there is no Electricity Feed i.e. there should be no disruption in power during load shedding and no human intervention is needed. If you are on a conference call when load shedding starts, you will not notice your modem switch off as it will receive continuous power. 
 
+## Shopping list
 
+The following items should be procured prior to the electrician arriving to install the unit.
+
+| Item | Description | Possible supplier |   |   |
+| --- | --- | --- | --- | --- |
+| Mini DB |   |   |   |   |
+| Changeover switch |   |   |   |   |
+| Inverter |   |   |   |   |
+| Battery |   |   |   |   |
+| Fuse |   |   |   |   |
+| Fuse holder |   |   |   |   |
+| Battery link cable |   |   |   |   |
 
 ## Changes to Electrical configuration in DB
 
