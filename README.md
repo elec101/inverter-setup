@@ -41,10 +41,10 @@ The following items should be procured prior to the electrician arriving to inst
 | Mini DB | 8 way DIN rail populated surface mount DB |   |   |   |
 | Changeover switch | 40A DIN rail change over switch |   |   |   |
 | Inverter | The following models have been proven in use: (1) KODAK Solar Off-Grid Inverter VMIII 5kW 48V, (2) growcol-mks-iv-5600-48-off-grid-inverter |   |   |   |
-| Battery |   |   |   |   |
-| Fuse |   |   |   |   |
-| Fuse holder |   |   |   |   |
-| Battery link cable |   |   |   |   |
+| Battery | Pylontech US3000C 3.5kWh 48v Lithium Li-Ion Solar Battery |   |   |   |
+| Fuse | 120 a FUSE |   |   |   |
+| Fuse holder | Single Fuse holder |   |   |   |
+| Battery link cable | 300 mm battery link cable |   |   |   |
 
 ## Changes to Electrical configuration in DB
 
