@@ -32,23 +32,7 @@ This solution focusses on solving a particular need of load shedding i.e. up to 
 
 The load shedding solution described in this document is designed to automatically take over powering the home when there is no Electricity Feed i.e. there should be no disruption in power during load shedding and no human intervention is needed. If you are on a conference call when load shedding starts, you will not notice your modem switch off as it will receive continous power. 
 
-## Background
 
-The following items should be procured prior to the electrician arriving to install the unit.
-
-| Item | Description | Possible supplier |   |
-| --- | --- | --- | --- |
-| Mini DB | 8 way DIN rail populated surface mount DB | [Link](https://leroymerlin.co.za/distribution-board-surface-mount-populated-lesco-8-way-81422450?sfdr_ptcid=32806_617_517046702&sfdr_hash=855018d6eea6904a36b64c5c66958bbd&gclid=CjwKCAjw_b6WBhAQEiwAp4HyIJc6mzvLf3KyIEBcIO_TtSQSMvb_vR1u1tm5JyUo9TaWQE4RiML-NBoChAYQAvD_BwE) |   |
-| Change over switch | 40A DIN rail change over switch  | [Link](https://www.stepbuildingsupplies.co.za/products/2p-40a-din-changeover-switch?currency=ZAR&variant=34220340445315&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&gclid=CjwKCAjw_b6WBhAQEiwAp4HyILsP-XIf3-iUtZr6BSTUZnPTdTr1lJy2jkh_DyfuqWM5HbzehSEXxxoCHZcQAvD_BwE) |   |
-| Inverter | 
-The following models have been proven in use
-
-KODAK Solar Off-Grid Inverter VMIII 5kW 48V
-
-growcol-mks-iv-5600-48-off-grid-inverter
-
- | [Link](https://onlineshop.gcsolar.co.za/product/growcol-mks-iv-5600-48-off-grid-inverter/) |   |
-| Battery | Migration away from fossil fuel based energy e.g., Solar Power | Link |   |
 
 ## Changes to Electrical configuration in DB
 
