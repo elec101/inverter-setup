@@ -40,7 +40,7 @@ The following items should be procured prior to the electrician arriving to inst
 | --- | --- | --- | --- | --- |
 | Mini DB | 8 way DIN rail populated surface mount DB |   |   |   |
 | Changeover switch | 40A DIN rail change over switch |   |   |   |
-| Inverter |  |   |   |   |
+| Inverter | The following models have been proven in use: (1) KODAK Solar Off-Grid Inverter VMIII 5kW 48V,growcol-mks-iv-5600-48-off-grid-inverter  |   |   |   |
 | Battery |   |   |   |   |
 | Fuse |   |   |   |   |
 | Fuse holder |   |   |   |   |
