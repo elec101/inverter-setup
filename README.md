@@ -7,9 +7,30 @@ This document provides resources to help install an inverter and battery to help
 This document is divided into the following section
 
 *   Background 
+*   Shopping list
 *   Changes to Electrical configuration in DB
 *   Battery and inverter setup
 *   Commissioning 
+
+## Background
+
+The solution described in this document is aimed at providing power to low power devices during load shedding. Typical devices powered are:
+
+*   Lights
+*   Modems
+*   Computers
+*   Electric gate / garage doors
+
+This solution focusses on solving a particular need of load shedding i.e. upto a 6 hour power outage every 24 hours as per the table below:
+
+| Need | Description | Suitability of solution  |   |
+| --- | --- | --- | --- |
+| Load shedding | Powering low energy devices e.g., modem and lights for a 6 hour period every 24 hours | Yes |   |
+| Extended power outage | Powering devices during an extended outage e.g., substation failure for more than 6 hours | No |   |
+| Reduction in electricity bill | Power saving interventions e.g., Gas geyser/ Solar power to reduce electricity bills | No |   |
+| Shift to green energy | Migration away from fossil fuel based energy e.g., Solar Power | No |   |
+
+The solution described in this document is aimed at p
 
 ## Changes to Electrical configuration in DB
 
@@ -22,9 +43,6 @@ See diagram below
 3.  Arrange the UPS breakers within the DB next to each other
 4.  Connect the UPS breakers neutrals to a dedicated bus neutral bus bar (at this point the neutrals for the UPS breaker are not connected to anything
 5.  Add a positive bus bar to connect the UPS breakers incomers (optional)
-
-  
- 
 
 ### Install mini DB
 
@@ -46,13 +64,7 @@ See diagram below
 7.  Connect the network cable from the battery to the inverter, the cable only work one way - the end of the cable marked battery must be connected to the battery
 8.  See the photos below for the battery settings and network cable connections
 
-  
- 
-
 ![](https://lh4.googleusercontent.com/cnfTBGkI73ZxgQrvb78ls7ulTP6HsQHgolku6zhOqtlZ-IOdeUXIx1-wcccBjd8TBkjZVBvBmSjZpc5DqvGzYS_Md-kcru0xde0E6r_qxE0qAfDwBUuAEV2PIocxLQuc1IBAA21IrXP1oXjP32s)![](https://lh3.googleusercontent.com/-CZUHnCdgMN96hot5WrJiugL1i0xm-vhnLno6yN2whox2GMCnfqX8FuMqGbiPKhLFT98M3X9iaPukyzilVLsHpG7bnHo1jQ7ip361Dm3e6nfwHTUV_oCdPlUb71apfSxco9XG56MarTzgA78SvU)
-
-  
- 
 
 ## Commissioning 
 
@@ -61,8 +73,5 @@ See diagram below
 3.  Power up the battery - this should result in the inverter turning on (Off grid inverters will not activate without the battery on) \[To power up the battery hold down the red button and switch the power button)
 4.  On the inverter menu navigate to battery and choose pylon tech
 5.  The battery icon on the screen should flash showing comms with the battery as per pictures
-
-  
- 
 
 ![](https://lh6.googleusercontent.com/5K5ZiXCsRB7bdVGJtOPAMLkUsw4_qj2twZSjxcflKXUFLCdADHYfdqv8YmRTBxIYSjDxcM192ToFfJZq0r3pulrJyjdb60kO2_sEB67HsiN-WODNdSN5YnVSFUFFJh2hMQLoBEXRBxNOdGjgKLs)
