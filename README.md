@@ -45,7 +45,6 @@ The following models have been proven in use
 
 KODAK Solar Off-Grid Inverter VMIII 5kW 48V
 
-growcol-mks-iv-5600-48-off-grid-inverter
 
  |   |   |   |
 | Battery |   |   |   |   |
